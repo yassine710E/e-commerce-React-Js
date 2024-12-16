@@ -17,17 +17,17 @@ This is a simple e-commerce app built with **React.js**, **React Query**, and **
 ## Screenshots
 
 ### Home Screen (Products List)
-![Home Screen](path-to-home-screen-image.png)
+![Home Screen](https://github.com/yassine710E/e-commerce-React-Js/raw/main/src/assets/products.PNG)
 
 ### Search Screen
-![Search Screen](path-to-search-screen-image.png)
+![Search Screen](https://github.com/yassine710E/e-commerce-React-Js/raw/main/src/assets/search.PNG)
 
 ### Basket Screen
-![Basket Screen](path-to-basket-screen-image.png)
+![Basket Screen](https://github.com/yassine710E/e-commerce-React-Js/raw/main/src/assets/add%20products.PNG)
 
 ## Installation
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/e-commerce-app.git
+git clone https://github.com/yassine710E/e-commerce-React-Js.git
